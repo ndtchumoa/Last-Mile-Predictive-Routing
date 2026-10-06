@@ -1,0 +1,6 @@
+city,rows,couriers,regions,aois,days,dsMin,dsMax,ordersPerDayMean,couriersPerDayMean,ordersPerCourierDayMean,ordersPerCourierDayP90,ordersPerRegionDayMean,ordersPerRegionDayMedian,zeroCellShare,stopsPerRegionDayMedian,stopsPerRegionDayP90,stopsPerRegionDayMax,acceptGpsMissing,deliveryGpsMissing,dupOrderIds
+jl,31415,57,4,1259,163,512,1028,192.73,11.84,16.277,30.0,51.164,53.5,0.058,53.5,92.0,188,0.03,0.0,0
+yt,206431,205,17,8163,184,501,1031,1121.908,97.505,11.506,28.0,66.634,53.0,0.01,53.0,133.0,445,0.012,0.0,0
+cq,931351,1494,48,17451,184,501,1031,5061.69,372.397,13.592,27.0,114.066,100.0,0.076,99.0,240.0,705,0.0,0.0,0
+sh,1483864,1733,52,15564,184,501,1031,8064.478,381.81,21.122,40.0,176.65,165.0,0.122,164.0,335.0,811,0.0,0.0,0
+hz,1861600,1392,51,17714,184,501,1031,10117.391,389.511,25.975,43.0,202.348,187.0,0.02,187.0,333.0,838,0.0,0.0,0
